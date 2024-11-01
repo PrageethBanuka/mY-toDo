@@ -1,0 +1,14 @@
+/Users/banukarajapaksha/Developer/C#/bin/Debug/net8.0/C#
+/Users/banukarajapaksha/Developer/C#/bin/Debug/net8.0/C#.deps.json
+/Users/banukarajapaksha/Developer/C#/bin/Debug/net8.0/C#.runtimeconfig.json
+/Users/banukarajapaksha/Developer/C#/bin/Debug/net8.0/C#.dll
+/Users/banukarajapaksha/Developer/C#/bin/Debug/net8.0/C#.pdb
+/Users/banukarajapaksha/Developer/C#/obj/Debug/net8.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/banukarajapaksha/Developer/C#/obj/Debug/net8.0/C#.AssemblyInfoInputs.cache
+/Users/banukarajapaksha/Developer/C#/obj/Debug/net8.0/C#.AssemblyInfo.cs
+/Users/banukarajapaksha/Developer/C#/obj/Debug/net8.0/C#.csproj.CoreCompileInputs.cache
+/Users/banukarajapaksha/Developer/C#/obj/Debug/net8.0/C#.dll
+/Users/banukarajapaksha/Developer/C#/obj/Debug/net8.0/refint/C#.dll
+/Users/banukarajapaksha/Developer/C#/obj/Debug/net8.0/C#.pdb
+/Users/banukarajapaksha/Developer/C#/obj/Debug/net8.0/C#.genruntimeconfig.cache
+/Users/banukarajapaksha/Developer/C#/obj/Debug/net8.0/ref/C#.dll
